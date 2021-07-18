@@ -1,0 +1,16 @@
+7월 18, 2021 4:14:29 오후 ch11.MyLogger log
+WARNING: test
+7월 18, 2021 4:14:29 오후 ch11.MyLogger log
+SEVERE: test
+7월 18, 2021 4:18:06 오후 ch11.MyLogger log
+WARNING: test
+7월 18, 2021 4:18:06 오후 ch11.MyLogger log
+SEVERE: test
+7월 18, 2021 4:18:13 오후 ch11.MyLogger log
+WARNING: test
+7월 18, 2021 4:18:13 오후 ch11.MyLogger log
+SEVERE: test
+7월 18, 2021 4:21:43 오후 ch11.MyLogger warning
+WARNING: name must not be null
+7월 18, 2021 4:21:43 오후 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
